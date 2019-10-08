@@ -1,0 +1,20 @@
+{
+  "name": "trinity-falls",
+  "version": "1.0.0",
+  "description": "Trinity Falls Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haleonearth/trinity-falls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haleonearth/trinity-falls/issues"
+  },
+  "homepage": "https://github.com/haleonearth/trinity-falls#readme"
+}
